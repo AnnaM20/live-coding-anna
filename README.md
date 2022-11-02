@@ -1,18 +1,14 @@
-
 # Klasenliste
 
 ## Aufgabe(jeder soll sein name unter dem list einfügen)
 
-
-
 - Dana
-- Stephanie 
+- Stephanie
 - Louise
-- LeotrimBehrami
+- Leotrim Behrami
 - Oscar
 - Peggy Janocha
 - Ulus Karakoc
 - Fatih Karaca
 - Enrique
--Anna
-
+- Anna
