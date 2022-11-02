@@ -14,6 +14,7 @@ ls
 code README.md .
 git pull
 
+Oscar 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -45,8 +46,4 @@ Dana
 
 LeotrimBehrami
 
-     \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+ 
