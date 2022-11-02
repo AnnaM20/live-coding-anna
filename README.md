@@ -12,8 +12,5 @@
 - Fatih Karaca
 - Enrique
 - enrique_leon 
-
-
-
-- Anna
+- Anna maiber
 
