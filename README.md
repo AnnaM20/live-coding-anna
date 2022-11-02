@@ -14,7 +14,8 @@ ls
 code README.md .
 git pull
 
-Oscar 
+Hi Oscar 
+
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
