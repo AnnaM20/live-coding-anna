@@ -1,7 +1,7 @@
 
 # Klasenliste
 
-## Ausgabe(jeder soll sein name unter dem list einfügen)
+## Aufgabe(jeder soll sein name unter dem list einfügen)
 
 
 
@@ -12,5 +12,5 @@
 - Oscar
 - Peggy Janocha
 - Ulus Karakoc
-
+- Fatih Karaca
  
