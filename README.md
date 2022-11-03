@@ -16,6 +16,4 @@
 - enrique_leon
 - Anna maiber
 - Arne wäschenbach
-<<<<<<< HEAD
->>>>>>> f3777abfc5e308a3c4f74a39c575f88fdb436ea0
-=======
+
