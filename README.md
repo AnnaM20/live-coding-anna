@@ -10,7 +10,7 @@
 - Leotrim Behrami 24
 - Oscar
 - Peggy Janocha
-- Ulus Karakoc
+- Ulus Karakoc konya
 - Fatih Karaca
 - Enrique
 - enrique_leon
