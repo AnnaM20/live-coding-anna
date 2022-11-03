@@ -4,7 +4,7 @@
 
 ## Aufgabe(jeder soll sein name unter dem list einfügen)
 
-- Dana
+- Dana 
 - Stephanie
 - Louise
 - Leotrim Behrami 24
