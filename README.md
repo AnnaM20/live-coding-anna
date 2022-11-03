@@ -1,15 +1,11 @@
-Peggy Janocha
 # 22-d08-a
 
-Hi Leute heute ist 02.11.22
+Hi Leute heute ist der 02.11.22 und das ist unsere Klassenliste:
 
 
 
 Louise 
 
-Hi Leute 
-
-=======
-Hi Leute
+Peggy Janocha
 
 Dana
