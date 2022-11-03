@@ -5,10 +5,12 @@
 - Dana
 - Stephanie
 - Louise
-- Leotrim Behrami
+- Leotrim Behrami 24
 - Oscar
 - Peggy Janocha
 - Ulus Karakoc
 - Fatih Karaca
 - Enrique
-- Anna
+- enrique_leon 
+- Anna maiber
+- Arne wäschenbach
