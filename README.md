@@ -1,3 +1,5 @@
+# 22-d08-a
+
 # Klasenliste
 
 ## Aufgabe(jeder soll sein name unter dem list einfügen)
@@ -8,9 +10,9 @@
 - Leotrim Behrami 24
 - Oscar
 - Peggy Janocha
-- Ulus Karakoc
+- Ulus Karakoc konya
 - Fatih Karaca
 - Enrique
-- enrique_leon 
+- enrique_leon
 - Anna maiber
-
+- Arne wäschenbach
