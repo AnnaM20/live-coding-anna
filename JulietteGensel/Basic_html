@@ -6,7 +6,8 @@
  </head>
  <body>
   <h1>Die wichtigste Überschrift der Seite</h1>
-   <p> Erster Absatz </p>
-   <h2> Zweitwichtigster Absatz </h2>
+  <p>Das ist irgendein Absatz.</p>
+  <p>Das ist ein weiterer Absatz <br/> mit einem Zeilenumbruch.</p>
+   <h2> Zweitwichtigste Überschrift </h2>
   </body>
 </html>
